@@ -1,7 +1,7 @@
 {
   "mahasiswa": [
     {
-      "nim": "0618101001",
+      "nim": "01",
       "nama": "Riki",
       "umur": "20",
       "mail": "riki@gmail.com",
@@ -9,7 +9,7 @@
       "matakuliah": "Pemograman 1, Kalkulus 1, Metode Numerik"
     },
     {
-      "nim": "0618101002",
+      "nim": "02",
       "nama": "Ade",
       "umur": "21",
       "mail": "ade@gmail.com",
@@ -17,7 +17,7 @@
       "matakuliah": "Pemograman 1, Kalkulus 1, Metode Numerik, Kalkulus 2"
     },
     {
-      "nim": "0618101003",
+      "nim": "03",
       "nama": "Dina",
       "umur": "19",
       "mail": "dina@gmail.com",
